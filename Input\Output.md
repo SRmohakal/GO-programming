@@ -1,7 +1,7 @@
 # 🧾 Input & Output (I/O) 
 
 ---
-
+a
 ## ✅ 1. **Console Input (Standard Input)**
 
 ### 🔹 A. Using `fmt.Scan()`
