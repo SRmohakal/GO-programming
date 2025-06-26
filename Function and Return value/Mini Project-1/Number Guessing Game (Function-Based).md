@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ## 🔎 Concepts Practiced
 
 | Feature         | Purpose                        |
